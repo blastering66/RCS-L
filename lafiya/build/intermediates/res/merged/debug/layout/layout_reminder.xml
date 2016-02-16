@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_detail"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" >
+
+        <ImageView
+            android:id="@+id/judul_app"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:src="@drawable/logo_lafiya_horizontal" />
+
+        <ImageView
+            android:id="@+id/img_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="5dp"
+            android:src="@android:drawable/ic_search_category_default"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/wrapper_event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+        android:layout_margin="10dp" >
+
+        <TextView
+            android:id="@+id/txt_nextevent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@color/textview_color"
+            android:textSize="20sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txt_home_countdown"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text=""
+            android:textColor="@color/textview_color"
+            android:textSize="@dimen/size_text_reminder_countdown"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_home_judulacara"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_home_countdown"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/size_text_subjudul" />
+
+        <Button
+            android:id="@+id/btn_home_info"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_below="@id/txt_home_judulacara"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/information_icon_blue"
+            android:padding="10dp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/img_iklan"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true" />
+
+    <ListView
+        android:id="@+id/listview_acara"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_below="@id/wrapper_event"
+        android:padding="5dp"
+        android:layout_margin="30dp"
+        android:scrollbars="none"
+        android:background="@drawable/shape_dropshadow" >
+    </ListView>
+
+    
+
+</RelativeLayout><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/Lafiya/Lafiya/lafiya/src/main/res/layout/layout_reminder.xml -->

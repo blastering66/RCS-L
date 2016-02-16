@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:color="#04388f" />
+    <item android:state_pressed="true"  android:color="#0000FF" />
+    <item android:state_focused="true" android:color="#0000FF" />
+    
+
+</selector><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/Lafiya/Lafiya/lafiya/src/main/res/color/selector_colorbtn.xml -->

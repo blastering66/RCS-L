@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/viewpager_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.viewpagerindicator.CirclePageIndicator
+            android:id="@+id/indicator"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/viewPager"
+            android:background="#50000000"
+            android:padding="10dip" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/header_home"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_alignParentTop="true"
+        android:visibility="invisible" >
+        
+        <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:src="@drawable/bg_header"
+            android:scaleType="fitXY"/>
+        
+        <ImageView
+            android:id="@+id/logo_droidmagz"
+            android:layout_width="wrap_content"
+            android:layout_height="130dp"
+            
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/logo_rcs" />
+        
+        <ImageView 
+            android:id="@+id/img_account"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/img_btn_setting"
+            android:layout_margin="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+</RelativeLayout>

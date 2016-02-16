@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lafiya</string>
+   
+    <string name="hello_world">Hello world!</string>
+    <string name="action_changepassword">Change Password</string>
+    <string-array name="search_doctor">
+        <item >Nama Doctor</item>
+        <item>Spesialisasi</item>        
+    </string-array>
+    
+    <string name="textview_forgotpassword">Forgot Password</string>
+    <string name="textview_judul_resetpassword">Reset Password</string>
+    <string name="textview_donthaveaccount">Don\'t have an account ?</string>
+    <string name="textview_registernow">Register</string>
+    <string name="textview_judul_register">Register</string>
+    <string name="textview_judul_search">Search</string>
+    <string name="textview_judul_searchby">Search By : </string>
+    <string name="textview_judul_reminder">Next Reminder In</string>
+    <string name="textview_judul_medicalhistory">Medical History</string>
+    <string name="textview_judul_apptracker">Appointment Tracker</string>
+    <string name="textview_judul_healthartikel">Health Articles</string>
+    <string name="textview_judul_direction">Direction</string>
+    <string name="textview_judul_direction_nearby">Hospitals Near Me</string>
+    <string name="textview_judul_callus">Please Call Us</string>
+    <string name="textview_judul_finddoctor">Find Doctor</string>
+    <string name="textview_judul_finddoctor_detail">Doctor Detail</string>
+    <string name="textview_judul_finddoctor_detail_schedule">Schedule</string>
+    <string name="textview_judul_finddoctor_detail_schedule_create">Create Appointment</string>
+    
+    <string name="hint_insert_oldpass">Insert Old Password</string>
+    <string name="hint_insert_newpass">Insert New Password</string>
+    <string name="hint_retype_newpass">Re-type New Password</string>
+    <string name="hint_nokartu">Card No</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_katakunci">Kata Kunci...</string>
+    
+    <string name="edittext_error_emptyusername">Please Insert Username</string>
+    <string name="edittext_error_emptypassword">Please Insert Password</string>
+    
+    <string name="dialog_judul">Attention</string>
+    
+    <string name="toast_exit">Press again to exit...</string>
+    <string name="toast_noreminder">Belum ada Reminder</string>
+    <string name="toast_noarticle">Sorry, Can not fetch articles</string>
+    <string name="toast_error">Sorry something wrong happen</string>
+    <string name="toast_noconn">No Internet Connection</string>
+    <string name="toast_pilihjadwal">Harap pilih jadwal terlebih dahulu</string>
+    <string name="toast_failappointment">Failed to Create Appointment, Reason :</string>
+    <string name="toast_createappointment">Creating Appointment...</string>
+    <string name="toast_password_notmatch">Password did not Match!</string>
+    <string name="toast_proses">On Process</string>
+    
+    <string name="btn_label_makeappointment">MAKE APPOINTMENT</string>
+    <string name="btn_label_submit">Submit</string>
+    <string name="btn_label_save">Save</string>
+    <string name="btn_label_login">Log In</string>
+    <string name="btn_label_logout">Log out</string>
+    <string name="btn_label_cancel">Cancel</string>
+    <string name="btn_label_search">Search</string>
+    <string name="btn_label_register">Register</string>
+    <string name="btn_label_ok">OK</string>
+    
+    <string name="desc">
+        Buah Manggis (Garcinia mangostana L.) merupakan salah satu buah yang sangat banyak memiliki khasiat dan manfaat yang sangat berguna bagi kesehatan tubuh kita. Dibalik kulitnya yang  keras dan berserat,  ternyata  terdapat sebuah kandungan dan  manfaat yang sangat membantu untuk kebutuhan kesehatan  tubuh kita. Ekstrak  dari kulit buah manggis ini sangat mempunyai banyak manfaat  yang berguna untuk menyembuhkan berbagai macam- macam penyakit.
+\n\nKulit buah mangis  atau ekstrak kulit buah manggis mengandung Xanthone, Penelitian menunjukkan, xanthone memiliki sifat : antidiabetes, antikanker, anti-peradangan, hepatoprotektif, meningkatkan kekebalan tubuh, aromatase inhibitor, antibakteri, antiplasmodial, antifungi, dan memiliki aktivitas sitotoksik.
+\n\nXanthone juga bermanfaat untuk mencegah pertumbuhan sel kanker dan tumor. Staphylococcus aureus adalah salah satu bakteri yang banyak terdapat pada makanan, Bakteri ini ada di mana-mana, dan di tubuh manusia terdapat di kulit tangan, hidung, dan mulut. Dan ia sangat mudah mengontaminasi. Bakteri ini memproduksi toksin yang stabil terhadap pemanasan, tahan terhadap aktivitas pemecahan oleh enzim-enzim pencernaan, dan relatif resisten terhadap pengeringan. Ia juga memproduksi hemolisin, toksin yang dapat merusak dan memecah sel-sel darah merah.
+\n\nSelain itu kulit buah manggis mengandung  mangostin. Mangostin merupakan tipe baru dari histamin. Mangostin yang merupakan hasil isolasi dari kulit buah manggis mempunyai aktivitas antiinflamasi dan anti oksidan.
+\n\nZat antioksidan dan antimikroba dari kulit buah ini berhasiat dalam hal menetralkan asam lambung , membunuh kuman penyakit dan bakteri-bakteri merugikan sehingga sistem pencernaan didalam tubuh tetap lancar. Kulit manggis mengandung Antioksidan alami yang sangat berguna bagi jaringan sel tubuh manusia sehingga tampak lebih awet muda. Manfaat kulit manggis juga berperan dalam penyerapan metabolisme protein dan karbohidrat sehingga membantu menjaga stamina tubuh selalu tetap fit. Antioksidan dapat mengakhiri reaksi berantai dan meperlambat atau menghambat reaksi ini dengan menghapus intermediet radikal bebas, dan menghambat reaksi oksidasi lainnya. Jika kadar antioksidan dalam tubuh rendah, akan membuat tubuh sulit mengontrol kandungan nutrisu dan vitamin C yang terdapat dalam tubuh.
+\n\nAntioksidan telah diteliti dan sedang dikembangkan untuk suplemen makanan dan untuk pencegahan penyakit kronis seperti kanker, penyakit jantung koroner, stroke, diabetes dan sebagainya. Namun penggunaan antioksidan ini harus tepat dan sesuai dosis agar mendapatkan hasil yang maksimal. Apabila mengkonsumsi telalu banyak antioksidan akan mengganggu kesehatan dan terganggunya organ dalam tubuh. Zat antioksidan yang terkandung dalam kulit manggis ini sangat bermanfaat, tentunya  bagi sistem kekebalan tubuh .
+\n\nKandungan – kandungan yang terdapat pada ekstrak kulit manggis sangat  berguna untuk kesehatan tubuh kita , selain itu ekstrak kulit manggis  yang sebagian besar dianggap limbah, telah digunakan sebagai alternatif obat herbal yang difungsikan  utama untuk membantu konsumen sebagai obat yang mampu membasmi penyakit – penyakit yang di alami dan dapat diatasi dengan herbal ekstrak kulit mangis.
+\n\nManfaat lain yang terdapat pada ekstrak kulit manggis adalah :
+\n1.	Untuk menghambat pertumbuhan sel kanker
+\n2.	Mencegah penyakit jantung dan penyempitan pembuluh darah.
+\n3.	Sebagai anti radikal bebas
+\n4.	Mencerahkan dan Menyehatkan kulit
+\n5.	Immunomodulator
+ 
+\n\nManggis mampu meningkatkan sistem kekebalan tubuh dengan memperkuat aktivitas fagositosis dari sel untuk membunuh bakteri di dalam tubuh.
+\n1.	Memperlambat proses penuaan.
+\n2.	Membantu mencegah penyakit jantung.
+ 
+\n\nBegitu banyak khasiat dan manfaat dari ekstrak kulit manggis, secara tidak sadar banyak yang belum menyadari akan manfaat dari kandungan ekstrak  kulit manggis dan seakan menjadikan kulit dari  buah manggis sebagai limbah, tanpa disadari begitu banyak manfaat yang terdapat di ekstrak kulit buah ini.  Ekstrak kulit manggis yang telah  bersertifikat OHT ( Obat Herbal Terstandart) , yang dikemas dalam bentuk kapsul bertujuan untuk mempermudah konsumen untuk mengkonsumsinya dan menjadikan  sebagai obat utama, untuk menyembuhkan penyakit yang dialami, dan menjadikan Obat Herbal sebagai  Pilihan utama untuk kesehatan.
+        
+    </string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="saving_image">Saving image</string>
+    <string name="preparing_card">Preparing card</string>
+    <string name="no_storage_card">No storage card</string>
+    <string name="not_enough_space">Not enough space</string>
+
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+
+    <string name="title_activity_main">Twitter</string>
+
+    <!-- Label RangeSeekBar kiri dan Kanan -->
+    <string name="demo_min_label"></string>
+    <string name="demo_max_label"></string>
+</resources>

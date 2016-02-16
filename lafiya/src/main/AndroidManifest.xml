@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.tech.rcshospital"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_round"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".SplashscreenActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.FullScreenDark" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.MenuUtamaActivity"
+            android:theme="@style/Theme.FullScreenDark"
+            android:screenOrientation="portrait"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.LoginSignupActivity"
+            android:theme="@style/Theme.FullScreenDark"
+            android:screenOrientation="portrait"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.SignupActivity"
+            android:theme="@style/Theme.FullScreenDark"
+            android:screenOrientation="portrait"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.ReminderActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+         <activity 
+            android:name="id.tech.rcshospital.AppoinmentActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+         
+         <activity 
+            android:name="id.tech.rcshospital.MedicalHistoryActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+          <activity 
+            android:name="id.tech.rcshospital.DetailMedicalHistoryActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+         
+         <activity 
+            android:name="id.tech.rcshospital.MakeAppointmentActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+         
+         <activity 
+            android:name="id.tech.rcshospital.AppoinmentTrackerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.ArticleActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.CallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.DirectionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.FindDoctorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+         <activity 
+            android:name="id.tech.rcshospital.DetailDoctorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+         
+         <activity 
+            android:name="id.tech.rcshospital.ChangePasswordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.DetailBannerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDark"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.SearchDoctorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDialog"></activity>
+        
+        <activity 
+            android:name="id.tech.rcshospital.BannerDialog"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDialog"></activity>
+        
+        <activity 
+            android:name="id.tech.util.DialogActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScreenDialog"></activity>
+
+
+    </application>
+
+</manifest>

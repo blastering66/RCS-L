@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" >
+
+        <ImageView
+            android:id="@+id/img_logo"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:src="@drawable/logo_lafiya_horizontal" />
+
+        <TextView
+            android:id="@+id/judul_app"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/img_logo"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/size_padding"
+            android:text="@string/textview_judul_callus"
+            android:textColor="@color/textview_color"
+            android:textSize="@dimen/size_text_judul"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/wrapper_nearme"
+            android:layout_margin="@dimen/size_padding_half"
+            android:background="@color/garis_color"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/img_iklan"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true" />
+    
+    <ListView
+        android:id="@+id/ls_call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_below="@id/header"
+        android:layout_margin="@dimen/size_padding_double"
+        android:background="@drawable/shape_dropshadow"
+        android:scrollbars="none" >
+    </ListView>
+
+    
+
+</RelativeLayout><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/Lafiya/Lafiya/lafiya/src/main/res/layout/layout_call.xml -->

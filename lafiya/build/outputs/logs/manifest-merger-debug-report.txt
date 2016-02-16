@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:2:1-133:12
+	package
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:14:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:17:22-78
+application
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:20:5-131:19
+	android:label
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:22:9-44
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:24:9-40
+activity#id.tech.rcshospital.SplashscreenActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:26:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:32:27-74
+activity#id.tech.rcshospital.MenuUtamaActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:36:9-39:61
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:37:13-65
+activity#id.tech.rcshospital.LoginSignupActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:41:9-44:61
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:44:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:42:13-67
+activity#id.tech.rcshospital.SignupActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:46:9-49:61
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:49:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:47:13-62
+activity#id.tech.rcshospital.ReminderActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:51:9-54:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:53:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:52:13-64
+activity#id.tech.rcshospital.AppoinmentActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:56:10-59:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:58:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:59:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:57:13-66
+activity#id.tech.rcshospital.MedicalHistoryActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:61:10-64:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:62:13-70
+activity#id.tech.rcshospital.DetailMedicalHistoryActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:65:11-68:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:66:13-76
+activity#id.tech.rcshospital.MakeAppointmentActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:70:10-73:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:72:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:73:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:71:13-71
+activity#id.tech.rcshospital.AppoinmentTrackerActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:75:10-78:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:77:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:78:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:76:13-73
+activity#id.tech.rcshospital.ArticleActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:80:9-83:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:82:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:81:13-63
+activity#id.tech.rcshospital.CallActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:85:9-88:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:87:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:86:13-60
+activity#id.tech.rcshospital.DirectionActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:90:9-93:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:92:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:93:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:91:13-65
+activity#id.tech.rcshospital.FindDoctorActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:95:9-98:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:97:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:98:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:96:13-66
+activity#id.tech.rcshospital.DetailDoctorActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:100:10-103:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:102:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:103:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:101:13-68
+activity#id.tech.rcshospital.ChangePasswordActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:105:10-108:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:107:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:108:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:106:13-70
+activity#id.tech.rcshospital.DetailBannerActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:110:9-113:68
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:112:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:113:13-56
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:111:13-68
+activity#id.tech.rcshospital.SearchDoctorActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:115:9-118:70
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:117:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:118:13-58
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:116:13-68
+activity#id.tech.rcshospital.BannerDialog
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:120:9-123:70
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:122:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:123:13-58
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:121:13-60
+activity#id.tech.util.DialogActivity
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:125:9-128:70
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:127:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:128:13-58
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/Lafiya/Lafiya/lafiya/src/main/AndroidManifest.xml:126:13-55

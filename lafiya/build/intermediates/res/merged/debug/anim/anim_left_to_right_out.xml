@@ -1,0 +1,7 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:shareInterpolator="false">
+  <translate 
+      android:fromXDelta="0%" android:toXDelta="100%"
+      android:fromYDelta="0%" android:toYDelta="0%"
+      android:duration="400"/>
+</set><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/Lafiya/Lafiya/lafiya/src/main/res/anim/anim_left_to_right_out.xml -->

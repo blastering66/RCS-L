@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rcs.rcshospital.Splashscreen" >
+
+    <item
+        android:id="@+id/action_changepassword"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_changepassword"/>
+
+</menu>
+<!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/Lafiya/Lafiya/lafiya/src/main/res/menu/splashscreen.xml -->

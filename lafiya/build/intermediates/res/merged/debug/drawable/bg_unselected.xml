@@ -1,0 +1,11 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+ 
+    
+ 
+    <gradient
+        android:centerColor="#04388f"
+        android:endColor="#04388f"
+        android:startColor="#04388f" />
+ 
+</shape><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/Lafiya/Lafiya/lafiya/src/main/res/drawable/bg_unselected.xml -->

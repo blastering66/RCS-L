@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Workspace_Android_Studio_NEW\Lafiya\lafiya\build\intermediates\pre-dexed\debug\support-v4-19.1.0-8406755560fd397b349ded117733e76dbd01c88d.jar" />
+    </item>
+    <item
+        jar="C:\gradle-2.3\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="D:\Workspace_Android_Studio_NEW\Lafiya\lafiya\build\intermediates\pre-dexed\debug\joda-time-2.3-62de28da73e57854383512e40cbc2e33b831be14.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\Lafiya\lafiya\libs\httpclient-4.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d7d28fa738bdbfe4fbd895d9486308999bdf440">
+        <dex dex="D:\Workspace_Android_Studio_NEW\Lafiya\lafiya\build\intermediates\pre-dexed\debug\httpclient-4.0.1-d27e2a05683eeb16b97611808dfab2a087468aaa.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\Lafiya\lafiya\libs\picasso-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fb8144776ae3c72c62d66b7f0bdb2580b6f0668c">
+        <dex dex="D:\Workspace_Android_Studio_NEW\Lafiya\lafiya\build\intermediates\pre-dexed\debug\picasso-2.0.0-739a172c011d7b5d2372e23a98e38f0820570cfa.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+     >
+
+    <LinearLayout
+        android:id="@+id/list_item_dokter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/size_padding"
+         >
+
+        <ImageView
+            android:id="@+id/img_doktor"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="@dimen/size_padding_half"
+            android:src="@drawable/img_dokter" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"            
+            android:padding="@dimen/size_padding_half">
+
+            <TextView
+                android:id="@+id/txt_nama_dokter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"                
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:textSize="@dimen/size_text_big" />
+
+            <TextView
+                android:id="@+id/txt_spesialisasi_dokter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"              
+                
+                android:textSize="@dimen/size_text_small" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/list_item_dokter"
+        android:layout_marginLeft="@dimen/size_padding_half"
+        android:layout_marginRight="@dimen/size_padding_half"
+        android:background="@android:color/darker_gray"
+        android:visibility="gone" />
+
+</RelativeLayout>

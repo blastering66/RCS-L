@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/img_reminder"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/img_reminder_obat" />
+
+        <TextView
+            android:id="@+id/txt_desc_reminder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/img_reminder"
+            android:maxLines="1"
+            android:layout_marginLeft="@dimen/padding_medium"
+            android:padding="@dimen/size_padding_half"
+            android:text="Omni Hospiltas Pulomas"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+</LinearLayout>

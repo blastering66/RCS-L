@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/txt_item_tracker"
+    android:textSize="@dimen/size_text_standard"
+    android:padding="@dimen/padding_medium" >
+    
+
+</TextView>
+<!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/Lafiya/Lafiya/lafiya/src/main/res/layout/list_item_tracker.xml -->
